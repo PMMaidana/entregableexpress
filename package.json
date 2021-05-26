@@ -1,0 +1,15 @@
+{
+  "name": "entregable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "desafio.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "martinm",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
